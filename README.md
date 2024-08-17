@@ -1,9 +1,8 @@
 # Design Document
 
-Hospitality Management System
-Github: torwikari
+* Hospitality Management System
+* Github: torwikari
 
-Video overview: <URL HERE>
 
 ## Scope
 
