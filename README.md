@@ -3,6 +3,8 @@
 - Hospitality Management System
 - Github: torwikari
 
+[![Video overview](https://img.youtube.com/vi/-dAsFUAHED4/maxresdefault.jpg)](https://youtu.be/-dAsFUAHED4)
+
 ## Scope
 
 The Hospitality Management System includes all entities necessary to facilitate inventory tracking in a gastronomic enterprise. As such, included in the database's scope is:
